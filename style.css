@@ -83,3 +83,7 @@ footer a:active {
 footer ul{
   list-style-type: none;
 }
+p{
+ font-family: Impact, Charcoal, sans-serif;
+  text-align: center;
+}
