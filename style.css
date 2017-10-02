@@ -69,3 +69,6 @@ footer a:active {
 	text-decoration: underline;
 	color: purple;
 }
+footer ul{
+  list-style-type: none;
+}
