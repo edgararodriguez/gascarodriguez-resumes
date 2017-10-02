@@ -11,3 +11,7 @@ body{background-image:url("images/wood.jpg");}
    width: 90%;
    margin:10px 0px 30px 30px;
    background-color: black;
+ }
+.centerh{
+  text-align: center;
+}
