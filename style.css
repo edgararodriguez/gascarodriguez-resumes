@@ -15,6 +15,17 @@ body{background-image:url("images/wood.jpg");}
 .centerh{
   text-align: center;
 }
+.education,.skills {
+	display: inline-block;
+	width: 49%;
+	vertical-align: top;
+}
+.education{
+text-align: center;
+}
+.skills{
+text-align: center;
+}
 .header {
 	padding-bottom: 20px;
 }
