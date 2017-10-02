@@ -5,3 +5,9 @@ body{background-image:url("images/wood.jpg");}
  max-width: 960px;
  margin: 0 auto;
  padding: 50px;}
+
+ .line {
+   height: 2px;
+   width: 90%;
+   margin:10px 0px 30px 30px;
+   background-color: black;
